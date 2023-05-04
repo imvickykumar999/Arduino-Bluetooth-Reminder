@@ -149,10 +149,10 @@
   ('copy', 'C:\\Users\\Vicky\\anaconda3\\lib\\copy.py', 'PYMODULE'),
   ('gettext', 'C:\\Users\\Vicky\\anaconda3\\lib\\gettext.py', 'PYMODULE'),
   ('os', 'C:\\Users\\Vicky\\anaconda3\\lib\\os.py', 'PYMODULE'),
-  ('token', 'C:\\Users\\Vicky\\anaconda3\\lib\\token.py', 'PYMODULE'),
   ('stringprep', 'C:\\Users\\Vicky\\anaconda3\\lib\\stringprep.py', 'PYMODULE'),
   ('_py_abc', 'C:\\Users\\Vicky\\anaconda3\\lib\\_py_abc.py', 'PYMODULE'),
   ('tracemalloc',
    'C:\\Users\\Vicky\\anaconda3\\lib\\tracemalloc.py',
    'PYMODULE'),
+  ('token', 'C:\\Users\\Vicky\\anaconda3\\lib\\token.py', 'PYMODULE'),
   ('socket', 'C:\\Users\\Vicky\\anaconda3\\lib\\socket.py', 'PYMODULE')])
