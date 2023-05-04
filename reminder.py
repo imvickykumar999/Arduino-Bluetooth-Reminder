@@ -30,5 +30,7 @@ while True:
         break
 
     except Exception as e:
-        print(e)
+        # print(e)
         pass
+
+input('Press enter to exit.')
